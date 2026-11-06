@@ -1,0 +1,8 @@
+﻿,,,,N of plant families,
+,D value,p_Random,p_Brownian motion,with galls,without galls
+Galls,0.358,<0.001,0.1104,129,165
+Diptera,0.465,<0.001,0.0537,109,185
+Hemiptera,0.879,0.2545,0.0056,41,253
+Hymenoptera,0.574,0.0217,0.0945,33,261
+Coleoptera,1.063,0.6071,0.0017,31,263
+Lepidoptera,0.622,0.0277,0.0528,42,252
